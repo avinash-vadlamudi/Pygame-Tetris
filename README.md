@@ -1,4 +1,4 @@
-          ## PYGAME ##
+## PYGAME 
 
-	  Created a Tetris Game using Pygame library 
+Created a Tetris Game using Pygame library 
 
